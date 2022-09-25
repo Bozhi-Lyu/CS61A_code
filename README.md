@@ -1,2 +1,5 @@
-# CS61A_code
-code of homework, lab and projects in CS61A Summer 2020
+# code of CS61A 
+
+Course website: [CS61A Summer 2020](https://inst.eecs.berkeley.edu/~cs61a/su20/)
+
+This repository record my code of homework, labs and projects in CS61A Summer 2020. Only files to be completed are committed. Test files like ```ok.py``` in the packages from the website are not included.
